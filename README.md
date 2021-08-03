@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Raenllanthos
+- 👋 Hi, I’m Raenllanthos, 24 years old!
 - 👀 I’m interested in ............... games, music, programming!
 - 🌱 I’m currently learning .......... programming, music, and making games!
 - 💞️ I’m looking to collaborate on ... any of the above!
-I play Final Fantasy 14, Age of Empires 2, and Rocksmith. I am learning and enjoying playing guitar
+I am currently playing Dark Souls 2, Deep Rock Galactic, Halo, Age of Empires 2. I am learning and enjoying playing guitar
 and bass and I hope to make some music sometime also :)
 
 <!---
